@@ -1,3 +1,6 @@
+## NOT WORKING ANYMORE
+Use [daffyyyy/CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin) !size instead.
+
 # CS2-ResizePlayer
 Player model size changer & remove collisions counterstrikesharp plugin 
 
